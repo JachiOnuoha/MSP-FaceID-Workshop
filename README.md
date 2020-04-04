@@ -1,7 +1,7 @@
 # MSP-FaceID-Workshop
 Workshop notes for Azure Cognitive Services FaceID using Jupyter Notebooks
 
-# FaceID
+# [FaceID API](https://docs.microsoft.com/en-us/azure/cognitive-services/face/)
 - Face detection 
   - rectangle coordinates
   - pose
