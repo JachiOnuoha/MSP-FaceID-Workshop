@@ -3,13 +3,13 @@ Workshop notes for Azure Cognitive Services FaceID using Jupyter Notebooks
 
 # FaceID
 - Face detection 
-    rectangle coordinates
-    pose
-    gender
-    age
-    emotion
-    facial hair
-    glasses
+  - rectangle coordinates
+  - pose
+  - gender
+  - age
+  - emotion
+  - facial hair
+  - glasses
 - Face verification 
     evaluates whether two faces belong to the same person
      Find similar faces
