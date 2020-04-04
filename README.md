@@ -18,3 +18,8 @@ Workshop notes for Azure Cognitive Services FaceID using Jupyter Notebooks
   - there can be several groups for a single person (differentiated by another factor, such as expression for example)
 - Person identification 
   - detected face against a database of people. Useful for automatic image tagging
+
+
+# UK-ACM Online Hackathon Workshop
+You can use the completed notebook to follow along the live workshop or as a refernce in the future 
+[Completed Workshop](https://notebooks.azure.com/jachimike-onuoha-msp/projects/faceid-workshop)
